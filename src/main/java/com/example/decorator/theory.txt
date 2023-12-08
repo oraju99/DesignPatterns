@@ -1,0 +1,21 @@
+Key Components:
+
+Component:
+Defines the interface for objects that can have responsibilities added to them.
+In practical terms, this is usually an abstract class or interface.
+Pizza interface is a component in this case
+
+Concrete Component:
+Implements the Component interface and provides the basic functionalities.
+Plain pizza is the concrete component in this case
+
+Decorator:
+Also implements the Component interface.
+Holds a reference to a Component object.
+Can add additional responsibilities or modify existing behavior.
+Pizza decorator is the decorator
+
+Concrete Decorator:
+Extends the behavior of the Decorator class.
+Adds specific functionalities to the component.
+Cheese topping and pepperoni topping are the concrete decorators
