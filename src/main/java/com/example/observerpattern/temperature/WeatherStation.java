@@ -1,4 +1,4 @@
-package com.example.observer;
+package com.example.observerpattern.temperature;
 
 import java.util.ArrayList;
 import java.util.List;

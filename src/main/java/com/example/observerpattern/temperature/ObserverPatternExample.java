@@ -1,4 +1,4 @@
-package com.example.observer;
+package com.example.observerpattern.temperature;
 
 public class ObserverPatternExample {
     public static void main(String[] args) {
