@@ -1,4 +1,4 @@
-package com.example.factory;
+package com.example.factory.shape;
 
 public class FactoryPatternExample {
     public static void main(String[] args) {
