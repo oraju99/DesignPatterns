@@ -1,6 +1,6 @@
 package com.example.chainofresponsiblity;
 
-public class ChainOfResponsiblityExample {
+public class ChainOfResponsibilityExample {
     public static void main(String[] args) {
         HundredHandler hundredHandler = new HundredHandler();
         TwentyHandler twentyHandler = new TwentyHandler();
